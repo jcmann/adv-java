@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"java112.analyzer","l":"DistinctTokensAnalyzer"},{"p":"java112.analyzer","l":"Driver"},{"p":"java112.analyzer","l":"FileAnalysis"},{"p":"java112.analyzer","l":"FileSummaryAnalyzer"},{"p":"java112.analyzer","l":"TokenAnalyzer"}]
